@@ -1,1 +1,2 @@
 # math
+console.log("hello");
